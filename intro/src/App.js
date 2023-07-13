@@ -10,7 +10,7 @@ import Parent from './components/03-props/parent';
 import Formulaire from './components/04-form/index';
 import Todo from './components/05-todoList';
 import Header from './components/06-nav-link-routeur/header';
-import Article from './components/06-nav-link-routeur';
+import Article from './components/06-nav-link-routeur/article';
 
 
 function App() {
